@@ -14,19 +14,50 @@ body {
   color: #515076;
 }
 
-.main-text {
+.compound {
   color: #515076;
 }
 
-.button {
-  background-color: #515076;
-  color: #fff;
-  border: 1px solid #000;
-  border-radius: 5px;
-  padding: 10px 20px;
-  font-size: 20px;
+ul {
+  color: #515076;
 }
 
-.button-green {
-  background-color: #2ecc71;
+.norm-skin {
+  font-size: 12px;
+  line-height: 24px;
+  color: #A5A3B9;
+}
+
+.title-2 {
+  font-size: 20px;
+  line-height: 27px;
+  color: #515076;
+}
+
+.description {
+  font-size: 13px;
+  line-height: 18px;
+  color: #515076;
+}
+
+.price {
+  weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #515076;
+}
+
+.price-number {
+  weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #515076;
+  margin-left: 250px;
+}
+
+.photo {
+  width: 290px;
+  height: 245px;
+  top: 433px;
+  left: 110px;
 }
