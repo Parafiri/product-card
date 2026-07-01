@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+
+}
+
+.title {
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 78px;
+  margin: 0;
+  text-align: center;
+  color: #515076;
+}
+
+.compound {
+  color: #515076;
+}
+
+ul {
+  color: #515076;
+}
+
+.norm-skin {
+  font-size: 12px;
+  line-height: 24px;
+  color: #A5A3B9;
+}
+
+.title-2 {
+  font-size: 20px;
+  line-height: 27px;
+  color: #515076;
+}
+
+.description {
+  font-size: 13px;
+  line-height: 18px;
+  color: #515076;
+}
+
+.price {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #515076;
+}
+
+.price-number {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #515076;
+  margin-left: 250px;
+}
+
+.photo {
+  width: 290px;
+  height: 245px;
+  top: 433px;
+  left: 110px;
+}
